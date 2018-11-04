@@ -1,0 +1,24 @@
+title: Philadelphia Software Leadership Book Club
+description: A club to explore great books and ideas related to software leadership.
+url: https://pslb.club
+baseurl: ""
+repository: hectcastro/pslb.club
+
+timezone: America/New York
+
+theme: jekyll-theme-midnight
+
+show_downloads: false
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+exclude:
+  - .ruby_version
+  - docker-compose.yml
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - netlify.toml

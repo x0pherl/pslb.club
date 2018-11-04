@@ -1,0 +1,7 @@
+_site
+_drafts
+.sass-cache
+.jekyll-metadata
+.bundle
+.gem
+/vendor/bundle
