@@ -12,6 +12,18 @@ We meet on the first Thursday of every month (except January and July) to discus
 
 The host selects the book and comes up with their own way to prompt discussion about the book. We very much hope that each of our hosts will take a different approach to guiding discussion. They might ask questions, or share quotes or insights from the book and ask everyone to respond.
 
+## What are some tips for leading discussion?
+
+Below are a handful of tips that have worked well for us thus far:
+
+- Start with a round of introductions (if the group size is amenable to it). In addition to the usual asks (name, employer, job title), consider asking a question of your own (e.g., What brought you here today?).
+
+- Come up with a handful of questions that are relevant to the book content. They may be questions taken directly from the book, or questions that came to mind as you were reading it.
+
+- Lead questions with relevant quotes and ideas from the book. This helps provide context for folks who may not have read the entire book. 
+
+- Extract characters or personas from the book and ask attendees to comment on them. Push to consider both positive and negative interpretations.
+
 ---
 
 ## Code of Conduct
