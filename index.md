@@ -12,34 +12,12 @@ We meet on the first Thursday of every month (except January and July) to discus
 
 The host selects the book and comes up with their own way to prompt discussion about the book. We very much hope that each of our hosts will take a different approach to guiding discussion. They might ask questions, or share quotes or insights from the book and ask everyone to respond.
 
-## What are some tips for leading discussion?
+## Interested in hosting?
 
-Below are a handful of tips that have worked well for us thus far:
-
-- Start with a round of introductions (if the group size is amenable to it). In addition to the usual asks (name, employer, job title), consider asking a question of your own (e.g., What brought you here today?).
-
-- Come up with a handful of questions that are relevant to the book content. They may be questions taken directly from the book, or questions that came to mind as you were reading it.
-
-- Lead questions with relevant quotes and ideas from the book. This helps provide context for folks who may not have read the entire book. 
-
-- Extract characters or personas from the book and ask attendees to comment on them. Push to consider both positive and negative interpretations.
+As with most book clubs, we hope to rotate "hosts" who will select a book that they'd love to read and guide us through the discussion. We've got more information on <a href="hosting.html">hosting a great discussion</a>
 
 ---
 
 ## Code of Conduct
 
-Philadelphia Software Leadership Book Club is dedicated to providing a harassment-free community for everyone, regardless of sex, gender identity or expression, sexual orientation, disability, physical appearance, age, body size, race, nationality, or religious beliefs. We do not tolerate harassment of community members in any form. Participants violating these rules may be sanctioned or expelled from the community at the discretion of the PSLBC organizers. These rules apply to our monthly in-person meetups, any interactions on meetup.com, our Slack channel, or other PSLBC-related communications.
-
-Harassment includes offensive verbal or written comments related to sex, gender identity or expression, sexual orientation, disability, physical appearance, age, body size, race, nationality, or religious beliefs, deliberate intimidation, threats, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is not appropriate for any PSLBC event or communication channel. Community members asked to stop any harassing behavior are expected to comply immediately.
-
-If a community member engages in harassing behavior, the PSLBC organizers may take any action they deem appropriate, including warning the offender, expulsion from the PSLBC community, and/or expelling the offender from the venue we’re presenting in. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an PSLBC organizer immediately, or as soon as you feel comfortable doing so.
-
-Finally, because this is a book club, we are going to be reading and discussing books that address many issues. We expect our members to be open, honest, curious, respectful, and tolerant of others’ points of view. However, recognizing the paradox of tolerance, we will not tolerate intolerance in any form in any meeting or communication channel. This will be considered a form of harassment, and will be addressed as described above.
-
-The Philadelphia Software Leadership Book Club organizers are:
-
-Christopher Litsinger & Hector Castro: `abuse@pslb.club`
-
-If you have questions or feedback about this Code of Conduct please contact one of the organizers.
-
-This Code of Conduct, like its inspirations from the Ask a Dev & Portland Python User Group, is licensed under the Creative Commons Zero license.
+{% include code-of-conduct.html %}
