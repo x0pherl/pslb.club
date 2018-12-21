@@ -14,7 +14,7 @@ The host selects the book and comes up with their own way to prompt discussion a
 
 ## Interested in hosting?
 
-As with most book clubs, we hope to rotate "hosts" who will select a book that they'd love to read and guide us through the discussion. We've got more information on <a href="hosting.html">hosting a great discussion</a>
+As with most book clubs, we hope to rotate "hosts" who will select a book that they'd love to read and guide us through the discussion. We've got more information on [hosting a great discussion](hosting.html)
 
 ---
 
